@@ -1,5 +1,6 @@
 #VSCode
 *.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -129,3 +130,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Folder for personal tests
+test
+
+#data folders
+data
